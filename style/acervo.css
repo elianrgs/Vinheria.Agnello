@@ -59,6 +59,17 @@ h1 {
     letter-spacing: 2px;
 }
 
+article{
+    animation-duration: 3s;
+    animation-name: aparecer;
+    animation-iteration-count: 1;
+}
+
+@keyframes aparecer {
+    0% {opacity: 0}
+    100% {opacity: 1}
+}
+
 article {
     display: flex;
     justify-content: space-between;
@@ -67,7 +78,7 @@ article {
     margin-bottom: 30px;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition-duration: 0s;
 }
 
 article h2 {
@@ -93,6 +104,13 @@ article img {
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+
+
+article:hover{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+}
+
 
 .back {
     text-align: center;
@@ -120,3 +138,4 @@ footer {
     text-align: center;
     padding: 20px 0;
 }
+
