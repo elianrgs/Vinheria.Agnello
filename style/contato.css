@@ -74,7 +74,8 @@ button {
 }
 
 button:hover {
-    background-color: #a52a2a;
+    background-color: white;
+    color: black
 }
 
 .buttons-container {
@@ -95,7 +96,8 @@ button:hover {
 }
 
 .button:hover {
-    background-color: #a52a2a;
+    background-color: white;
+    color: black
 }
 
 footer {
