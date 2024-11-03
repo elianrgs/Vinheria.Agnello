@@ -13,7 +13,8 @@ CP1 - Front-End Design
 ### Descrição
 
 O projeto tem como objetivoo uso de CSS, usando propriedades como transformação, transição e animação, além de flexbox e suas propriedades. 
-Foram aplicados no site previamente criado na primeira etapa para a vinheria agnello.
+Foram aplicados no site previamente criado na primeira etapa para a vinheria agnello, onde foi apresentando informações sobre seu acervo completo,
+mostrando os mais variados tipos de vinhos, bem como dicas de harmonizações.
 
 1. **Index**: Página principal do projeto.
 2. **sobre**: Informações sobre a Vinheria Agnello.
