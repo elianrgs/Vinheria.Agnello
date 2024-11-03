@@ -173,6 +173,16 @@ footer {
 
 img {
     width: 556px;
+    margin-top: 36px;
     margin-bottom: 36px;
     border-radius: 8px;
+}
+
+.img_vinho{
+    border-radius: 50px;
+    transition: all 2s;
+}
+
+.img_vinho:hover{
+    background-color: #a52a2a;
 }
