@@ -1,4 +1,4 @@
-CP1 - Front-End Design
+CP2 - Front-End Design
 
 ## Projeto de personalização com propriedades de CSS para site da VInheria Agnello
 
